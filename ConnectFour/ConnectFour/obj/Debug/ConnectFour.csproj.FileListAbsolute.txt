@@ -1,0 +1,10 @@
+C:\Users\Andrew\Documents\_Coding\Connect 4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Andrew\Documents\_Coding\Connect 4 Revise\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Andrew\Documents\_Repos\Connect-4-Command-Console-Game\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Andrew\Documents\_Repos\Connect-4-Command-Console-Game\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Andrew\Documents\_Repos\Connect-4-Command-Console-Game\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb

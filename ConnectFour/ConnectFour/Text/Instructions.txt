@@ -1,0 +1,9 @@
+Instructions:
+
+Each player will take turns dropping a disc into a row.
+To choose the row, type the row number when prompted.
+A player will win when they get 4 discs in a row.
+Four in a row may be veritical, horizontal or diagnally.
+
+
+Press Enter to continue...
